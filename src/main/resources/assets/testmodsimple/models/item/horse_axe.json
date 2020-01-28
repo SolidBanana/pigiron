@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "testmodsimple:item/horse_axe"
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:smelting",
+	
+	"ingredient": { "tag": "testmodsimple:horse_ore" },
+	
+	"result": { "item": "testmodsimple:horseingot" },
+	
+	"count": 1,
+	"experience": 2.3,
+	"cookingTime": 200
+}

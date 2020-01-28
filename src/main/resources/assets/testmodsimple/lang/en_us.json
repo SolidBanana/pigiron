@@ -1,0 +1,26 @@
+{
+	"item.testmodsimple.horsebucket": "Horse Extract",
+	"item.testmodsimple.horseingot": "Horse Ingot",
+	
+	"item.testmodsimple.horse_axe": "Horse Axe", 
+	"item.testmodsimple.horse_pickaxe": "Horse Pickaxe", 
+	"item.testmodsimple.horse_hoe": "Horse Hoe", 
+	"item.testmodsimple.horse_shovel": "Horse Shovel", 
+	"item.testmodsimple.horse_sword": "Horse Sword", 
+	
+	"item.testmodsimple.horse_helmet": "Horse Helmet",
+	"item.testmodsimple.horse_chestplate": "Horse Chestplate",
+	"item.testmodsimple.horse_leggings": "Horse Leggings",
+	"item.testmodsimple.horse_boots": "Horseshoes?",
+	
+	"item.testmodsimple.horseblock": "Horse Block",
+	"block.testmodsimple.horseblock": "Horse Block",
+	
+	"item.testmodsimple.horse_ore": "Horse Ore",
+	"block.testmodsimple.horse_ore": "Horse Ore",
+	
+	"item.testmodsimple.horse_ore_nether": "Netherrack Horse Ore",
+	"block.testmodsimple.horse_ore_nether": "Netherrack Horse Ore",
+	
+	"itemGroup.Horse": "...Horse?"
+}

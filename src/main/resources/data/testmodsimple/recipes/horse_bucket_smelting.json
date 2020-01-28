@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:smelting",
+	
+	"ingredient": { "item": "testmodsimple:horsebucket" },
+	
+	"result": { "item": "testmodsimple:horseingot" },
+	
+	"count": 1,
+	"experience": 2.3,
+	"cookingTime": 200
+}

@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		"III",
+		"III"
+	],
+	
+	"key":
+	{
+		"I": { "item": "testmodsimple:horseingot" }
+	},
+	
+	"result": { "item": "testmodsimple:horseblock" },
+	"count": 1
+}

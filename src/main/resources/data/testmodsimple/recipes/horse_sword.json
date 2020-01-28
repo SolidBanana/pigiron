@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" I ",
+		" I ",
+		" S "
+	],
+	
+	"key":
+	{
+		"I": { "item": "testmodsimple:horseingot" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "testmodsimple:horse_sword" },
+	"count": 1
+}
